@@ -1,0 +1,396 @@
+geom_x_y;objectid;arrondissement;identifiant;numero_voie;nom_voie;x;y;horaires_ouverture;gestionnaire;source
+48.8668198774, 2.35272664515;13;02;2/106;109;BOULEVARD DE SEBASTOPOL;601188.661476;129596.561431;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8544281281, 2.33099520431;61;06;6/146;186;BOULEVARD SAINT GERMAIN;599594.287804;128218.475657;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8607904234, 2.35131574473;42;04;4/130;123;RUE SAINT MARTIN;601085.282148;128926.060506;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8498348758, 2.32305465373;67;07;7/127;40;RUE DE SEVRES;599011.512815;127707.775615;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8551043871, 2.29589590523;65;07;7/124;;AVENUE CHARLES FLOQUET;597018.73;128294.464;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8651488379, 2.31808802785;71;08;8/103;;COURS LA REINE;598647.453475;129410.776017;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8323424466, 2.33094074871;211;14;14/118;face 18;AVENUE DU GENERAL LECLERC;599590.094411;125762.531625;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8611231272, 2.36703242245;25;03;3/103;1;BOULEVARD DES FILLES DU CALVAIRE;602238.415459;128963.405014;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8325839304, 2.35616417308;197;13;13/170;146;BOULEVARD DE L HOPITAL;601441.81306;125789.559049;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8655035113, 2.3522490913;29;03;3/111;82;BOULEVARD DE SEBASTOPOL;601153.656757;129450.173102;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8303689517, 2.33383417366;207;14;14/113;face 14;AVENUE RENE COTY;599802.5;125543.066;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8889514414, 2.39309576671;363;19;19/136;213;AVENUE JEAN JAURES;604148.393561;132059.039202;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8908073507, 2.31967009491;291;17;17/137;135;AVENUE DE CLICHY;598764.176889;132263.993006;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.826231662, 2.30534375195;212;14;14/119;3;RUE MAURICE NOGUES;597710.658625;125083.464713;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8683459405, 2.36077777293;99;10;10/109;40;RUE RENE BOULANGER;601779.255481;129766.419877;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8354861014, 2.31779797752;201;14;14/104;opposé au 3;RUE DE L ABBE SOULANGE BODIN;598625.334013;126112.263413;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8784476343, 2.37394970898;344;19;19/107;29;AVENUE MATHURIN MOREAU;602744.996148;130890.131526;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8649497422, 2.39471760215;385;20;20/121;face 4;PLACE MARTIN NADAUD;604269.364671;129390.124661;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8462434637, 2.27762807252;248;15;15/127;face 2;AVENUE EMILE ZOLA;595677.474395;127310.013436;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8425893817, 2.29213723446;245;15;15/121;26;PLACE ETIENNE PERNET;596742.09359;126902.943297;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8381106104, 2.32233836209;200;14;14/103;88;AVENUE DU MAINE;598958.692725;126404.038189;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8582009701, 2.3497975967;39;04;4/120;14;RUE SAINT MARTIN;600973.942933;128638.090535;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8602837777, 2.34647836638;8;01;1/130;2;RUE DE LA LINGERIE;600730.366008;128869.662525;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8684257357, 2.38988864716;387;20;20/127;3;RUE SORBIER;603914.818137;129776.394991;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8441411997, 2.44113275967;169;12;12/162;;AVENUE DE NOGENT;607677.805027;127079.874145;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8920795027, 2.36154810531;309;18;18/112;opposé au 10;RUE DE L EVANGILE;601834.907908;132405.626891;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8404714766, 2.32683121793;199;14;14/102;face 32;BOULEVARD EDGAR QUINET;599288.523578;126666.516347;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8723150752, 2.36958303183;98;10;10/108;face 4;AVENUE CLAUDE VELLEFAUX;602425.017149;130208.036682;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8834206143, 2.34743317135;86;09;9/116;17;BOULEVARD DE ROCHECHOUART;600800.065808;131442.5047;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8394184396, 2.2914579762;235;15;15/109;150;RUE DE LA CONVENTION;596692.024655;126550.362152;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8689996554, 2.35617327983;91;10;10/101;20;BOULEVARD SAINT MARTIN;601441.452196;129839.014662;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8461125674, 2.37654775403;168;12;12/156;32;BOULEVARD DIDEROT;602937.435278;127294.547291;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8347355513, 2.33680389185;214;14;14/122;98;BOULEVARD ARAGO;600020.525577;126028.631928;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.875780706, 2.35586267389;94;10;10/104;;SQUARE ALBAN SATRAGNE;601418.477819;130593.066379;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8621579607, 2.28638203361;265;16;16/101;;AVENUE PAUL DOUMER;596321.135719;129079.248831;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.9008257902, 2.34380740461;331;18;18/153;;AVENUE DE LA PORTE DE CLIGNANCOURT;600533.985976;133377.939589;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8383970816, 2.25861985018;266;16;16/103;224;AVENUE DE VERSAILLES;594281.510382;126438.762687;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.887235116, 2.37583653584;350;19;19/115;face 57;QUAI DE LA SEINE;602882.882125;131867.376095;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8635546297, 2.36630552167;27;03;3/107;7/9;BOULEVARD DU TEMPLE;602184.977248;129233.768479;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8840275667, 2.30420618261;288;17;17/117;72;AVENUE DE VILLIERS;597629.931071;131510.445404;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8478120465, 2.34398782402;51;05;5/140;123;RUE SAINT JACQUES;600547.759073;127482.775609;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.878920802, 2.29447373547;285;17;17/106;4;AVENUE NIEL;596915.865744;130942.92271;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8806802415, 2.40040879932;348;19;19/111;;BOULEVARD D ALGERIE;604685.427548;131139.705313;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8538120546, 2.34924320775;35;04;4/106;;RUE D ARCOLE;600933.344034;128150.032965;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8694908822, 2.33834576652;20;02;2/115;;RUE MENARS;600133.64488;129893.45192;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8327135265, 2.36158054833;188;13;13/128;151;BOULEVARD VINCENT AURIOL;601839.438459;125804.088421;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8717292324, 2.3761963156;145;11;11/143;116;RUE DU FAUBOURG DU TEMPLE;602910.161741;130143.125126;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8390921089, 2.28255646788;240;15;15/115;face 170;RUE DE LOURMEL;596038.606573;126514.505826;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8325740517, 2.31141918096;228;14;14/157;147;RUE VERCINGETORIX;598156.967588;125788.577025;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8379520924, 2.35118650653;54;05;5/145;9;AVENUE DES GOBELINS;601076.277509;126386.419289;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8396213356, 2.37821862947;164;12;12/139;12;BOULEVARD DE BERCY;603060.459725;126572.784057;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8543011743, 2.30508321089;68;07;7/128;2;PLACE JOFFRE;597692.850345;128204.823117;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8600598633, 2.36070068743;24;03;3/102;2;RUE DES QUATRE FILS;601773.890142;128845.000351;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.895835561, 2.32804076739;293;17;17/144;2;RUE JACQUES KELLNER;599378.037212;132823.030846;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8700278994, 2.36659750587;120;10;10/143;face 50;QUAI DE JEMMAPES;602206.116711;129953.609099;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8508303988, 2.27789099265;272;16;16/109;9;QUAI LOUIS BLERIOT;595697.17054;127820.068441;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8476830944, 2.3279690909;58;06;6/115;85;BOULEVARD RASPAIL;599372.140607;127468.443588;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8533162776, 2.40925809907;380;20;20/112;131;RUE D AVRON;605337.366245;128097.400904;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8835019891, 2.38345050145;351;19;19/116;14;RUE MEYNADIER;603441.485;131452.57;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.863547401, 2.34247230415;3;01;1/107;9;RUE COQUILLIERE;600436.407921;129232.548445;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8759443207, 2.40698934293;393;20;20/153;;BOULEVARD MORTIER;605168.544468;130613.496409;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8555327403, 2.2898684072;264;15;15/161;;QUAI BRANLY;596576.466433;128342.354853;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8888826761, 2.29757004372;282;17;17/103;face 1;AVENUE EMILE ET ARMAND MASSARD;597143.541;132050.567;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8617407569, 2.37266335235;135;11;11/119;face 86;BOULEVARD RICHARD LENOIR;602651.527;129032.269;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8428648453, 2.29781054036;246;15;15/122;face 19;RUE LEON LHERMITTE;597158.517128;126933.343916;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8483316189, 2.26053361093;267;16;16/104;101;BOULEVARD DE MONTMORENCY;594423.108;127543.345;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.882567343, 2.33677389228;334;18;18/157;face 34;BOULEVARD DE CLICHY;600018.339458;131347.561696;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8491847075, 2.30356403712;254;15;15/140;25;AVENUE DE LOWENDAL;597581.120262;127635.915931;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8504315681, 2.38403796052;141;11;11/134;3;RUE DE MONTREUIL;603486.861551;127775.143111;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8455266144, 2.30189793713;250;15;15/130;38;RUE CAMBRONNE;597458.65896;127229.188082;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8859575419, 2.35627051467;317;18;18/120;1;RUE SAINT BRUNO;601448.103353;131724.745327;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8422349218, 2.25617823875;278;16;16/134;;BOULEVARD MURAT;594102.744086;126865.721593;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8992899143, 2.34053038252;310;18;18/113;opposé au 17;RUE RENE BINET;600293.749197;133207.131064;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.877068392, 2.39255357281;342;19;19/105;;RUE DES FETES;604109.608318;130737.606354;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8736801872, 2.38975171918;390;20;20/137;face 375;RUE DES PYRENEES;603904.36437;130360.686532;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8649204146, 2.39982370311;395;20;20/162;1;RUE BELGRAND;604643.975574;129387.165755;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8700582311, 2.32934537933;16;02;2/111;37;BOULEVARD DES CAPUCINES;599473.399498;129956.564359;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8431229675, 2.35207299082;48;05;5/111;face 75 bis;RUE MONGE;601141.234686;126961.437654;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8816653953, 2.34551626208;88;09;9/119;11;AVENUE TRUDAINE;600659.506252;131247.304413;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8553275619, 2.41523391124;379;20;20/111;12;AVENUE DU PROFESSEUR ANDRE LEMIERE;605775.651784;128321.496522;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.9010611628, 2.33553744078;319;18;18/123;opposé au 94;RUE JEAN HENRI FABRE;599927.699332;133404.087108;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8978997141, 2.32937581204;324;18;18/134;2;AVENUE DE LA PORTE DE SAINT OUEN;599475.945;133052.556;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8973126836, 2.38565335157;354;19;19/119;26 bis;AVENUE CORENTIN CARIOU;603602.045605;132988.431616;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8499307054, 2.36673549452;31;04;4/101;21 bis;BOULEVARD BOURDON;602217.120385;127718.790838;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8702743131, 2.33066568733;17;02;2/112;27;BOULEVARD DES CAPUCINES;599570.255758;129980.584519;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8605238452, 2.35117112561;43;04;4/131;115;RUE SAINT MARTIN;601074.676822;128896.414692;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8820890178, 2.33916330241;83;09;9/113;5;BOULEVARD DE CLICHY;600193.577557;131294.375135;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8763040445, 2.36139576778;97;10;10/107;1;AVENUE DE VERDUN;601824.305217;130651.381351;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8564861574, 2.34979645991;32;04;4/102;6;QUAI DE GESVRES;600973.89189;128447.402107;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.9007058379, 2.34022806856;315;18;18/118;opposé au 17;RUE LIEUTENANT COLONEL DAX;600271.578439;133364.581352;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8957747391, 2.34600060986;321;18;18/128;face 51;PLACE ALBERT KAHN;600694.841248;132816.277434;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8648972177, 2.37608280409;136;11;11/124;58;AVENUE DE LA REPUBLIQUE;602902.228819;129383.395901;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.876196047, 2.37218354181;103;10;10/114;61;BOULEVARD DE LA VILLETTE;602615.573548;130639.69053;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8688403461, 2.30122008396;72;08;8/107;32;AVENUE GEORGE V;597410.139112;129821.714347;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8627443804, 2.35936485767;30;03;3/119;25;RUE PASTOURELLE;601675.788994;129143.489889;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.845288881, 2.3692517539;157;12;12/118;4;BOULEVARD DIDEROT;602402.001843;127202.693815;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8857730297, 2.37036598805;353;19;19/118;25;AVENUE DE FLANDRE;602481.788;131704.596;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.852719661, 2.40898871152;382;20;20/114;64;RUE DU VOLGA;605317.661455;128031.03772;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8718385288, 2.36546558631;101;10;10/111;1;AVENUE RICHERAND;602123.006094;130154.919822;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8771534015, 2.3551008979;106;10;10/117;face 85 bis;BOULEVARD DE MAGENTA;601362.565838;130745.696913;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8249885208, 2.31127922285;203;14;14/106;11;AVENUE MAURICE D OCAGNE;598146.405218;124945.063541;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8521369726, 2.393718343;126;11;11/105;44;AVENUE PHILIPPE AUGUSTE;604197.125754;127965.279421;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8282285074, 2.376734206;186;13;13/126;38;RUE DU CHEVALERET;602952.167268;125305.833447;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8444926866, 2.37744419191;151;12;12/107;29;RUE ROLAND BARTHES;603003.323724;127114.450731;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8339254348, 2.31456172274;219;14;14/132;21;RUE DE GERGOVIE;598387.714458;125938.780053;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8548881939, 2.3728553855;125;11;11/104;27;RUE DE LA ROQUETTE;602665.978695;128270.265872;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8226634817, 2.36685643725;175;13;13/108;27;AVENUE D IVRY;602227.19647;124686.65815;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.838073564, 2.27798287788;237;15;15/111;;RUE SAINT CHARLES;595702.803335;126401.49492;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8490352799, 2.28792008292;252;15;15/135;;RUE DU THEATRE;596433.030869;127619.923721;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8722796221, 2.37662795136;107;10;10/118;face 1;BOULEVARD DE LA VILLETTE;602941.792118;130204.345648;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8823161493, 2.34143291584;89;09;9/135;51;BOULEVARD DE ROCHECHOUART;600360.028562;131319.640859;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.884382393, 2.3302750002;301;18;18/104;face 118;BOULEVARD DE CLICHY;599541.736;131549.415;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8528463574, 2.29798828688;255;15;15/142;86;RUE DE LA FEDERATION;597172.137418;128043.288376;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8510453349, 2.29512257485;260;15;15/154;face 22;PLACE DUPLEIX;596961.732911;127843.125758;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8707513162, 2.35456149368;100;10;10/110;face au 1;RUE DE METZ;601323.168011;130033.770944;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8696842376, 2.37116053465;144;11;11/140;135;AVENUE PARMENTIER;602540.865792;129915.537748;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8459388963, 2.26908155009;273;16;16/111;37;RUE MIRABEAU;595050.194916;127276.673498;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8421757132, 2.32316498865;208;14;14/114;23;RUE DU DEPART;599019.453706;126856.069655;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8844550441, 2.34273602653;303;18;18/106;;PLACE SUZANNE VALADON;600455.579621;131557.494514;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8474448003, 2.3954825438;159;12;12/121;opposé au 16;PLACE DE LA NATION;604326.993979;127443.60647;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8297799548, 2.36896816751;183;13;13/119;26;PLACE JEANNE D ARC;602381.919373;125478.080294;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8245410206, 2.33948840256;202;14;14/105;face 30;AVENUE REILLE;600217.631351;124894.996495;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8189867194, 2.34433502149;198;14;14/101;2;BOULEVARD JOURDAN;600573.551621;124277.379469;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8195836923, 2.36398233556;193;13;13/145;117;BOULEVARD MASSENA;602016.28177;124344.102031;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8312560816, 2.31610939765;226;14;14/148;189;RUE D ALESIA;598501.248;125641.914;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8331257229, 2.29949868476;257;15;15/144;face 41;RUE DES MORILLONS;597281.88373;125850.283561;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8556437616, 2.38355339048;129;11;11/109;164;BOULEVARD VOLTAIRE;603450.942955;128354.720394;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8239434465, 2.35812679931;195;13;13/161;87;AVENUE D ITALIE;601586.163717;124828.769944;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8818143971, 2.35323834994;114;10;10/126;3;RUE AMBROISE PARE;601225.842149;131263.970735;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8256858886, 2.31505362284;204;14;14/107;103;BOULEVARD BRUNE;598423.55849;125022.525696;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8362409445, 2.28169181419;262;15;15/159;364;RUE LECOURBE;595974.906002;126197.500447;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8776056478, 2.32703687989;81;09;9/103;21;RUE D AMSTERDAM;599304.165055;130795.86081;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8625217068, 2.30105587551;63;07;7/103;;QUAI BRANLY;597397.758037;129119.083032;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8588174968, 2.3893212175;132;11;11/112;face au 7;BOULEVARD DE MENILMONTANT;603873.932955;128707.922736;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8623006181, 2.37905139141;134;11;11/118;face 28;RUE DU GENERAL GUILHEM;603120.18;129094.77100000001;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8539831723, 2.36970018791;123;11;11/102;face 4;BOULEVARD RICHARD LENOIR;602434.49497;128169.519839;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8773676992, 2.37097100542;102;10;10/112;118;BOULEVARD DE LA VILLETTE;602526.577402;130769.937657;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8694709544, 2.31276020043;76;08;8/111;opposé au 44;AVENUE GABRIEL;598256.734261;129891.507457;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8745920335, 2.36273382814;113;10;10/124;105;QUAI DE VALMY;601922.514362;130461.037966;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8495778168, 2.39630211203;131;11;11/111;2;AVENUE DE BOUVINES;604386.956103;127680.846866;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8579704354, 2.34653567272;5;01;1/114;17;AVENUE VICTORIA;600734.603188;128612.417751;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8455922991, 2.384916432;163;12;12/136;18;RUE ERARD;603551.671121;127237.05387;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8770143095, 2.36399050058;108;10;10/119;;RUE ROBERT BLACHE;602014.595713;130730.429604;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8811175902, 2.28297085554;287;17;17/109;7;AVENUE DE LA PORTE DES TERNES;596072.372009;131187.744282;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8769298905, 2.28595031112;286;17;17/107;64;AVENUE DE LA GRANDE ARMEE;596290.572737;130721.918004;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8547611226, 2.39595517104;377;20;20/109;118;BOULEVARD DE CHARONNE;604361.044432;128257.213995;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8712998867, 2.34365407443;21;02;2/116;27;BOULEVARD POISSONNIERE;600523.034798;130094.637965;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8348792304, 2.32414276007;218;14;14/130;131;AVENUE DU MAINE;599091.082201;126044.6831;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8950895579, 2.35883888856;320;18;18/125;57;RUE DE LA CHAPELLE;601636.158088;132740.284398;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8268991047, 2.35132877867;179;13;13/113;4;RUE MARTIN BERNARD;601086.954392;125157.320528;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8572621108, 2.29110456267;256;15;15/143;73;QUAI BRANLY;596667.290874;128534.606247;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.851292682, 2.27548876659;269;16;16/106;22;RUE GROS;595520.923738;127871.61521;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8474515056, 2.37177589009;165;12;12/147;8;RUE DE LYON;602587.147;127443.263;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8399779407, 2.32141091703;233;15;15/105;4;RUE DU COMMANDANT RENE MOUCHOTTE;598890.657062;126611.699922;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.901133035, 2.34444160503;330;18;18/151;;AVENUE DE LA PORTE DE CLIGNANCOURT;600580.477;133412.11000000002;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.883028778, 2.38142198169;349;19;19/113;face 5;AVENUE DE LAUMIERE;603292.749466;131399.857816;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8919370861, 2.32718400877;299;18;18/102;74;AVENUE DE SAINT OUEN;599315.163865;132389.525199;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8392330434, 2.30633269023;258;15;15/148;face 7;RUE LA QUINTINIE;597783.856332;126529.198644;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.871931094, 2.3920523226;389;20;20/135;296;RUE DES PYRENEES;604073.260171;130166.308066;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.896429138, 2.3346274324;322;18;18/129;face 36;RUE LEIBNIZ;599860.969006;132889.004259;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8319295622, 2.30273348541;236;15;15/110;76;RUE BRANCION;597519.295669;125717.158035;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8917888229, 2.33522147941;300;18;18/103;2;RUE MONTCALM;599904.511395;132372.997198;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8460231192, 2.30890949564;234;15;15/106;;AVENUE DE SUFFREN;597973.282255;127284.187674;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8875400487, 2.29436414579;296;17;17/177;face 1;AVENUE STEPHANE MALLARME;596908.369938;131901.393049;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.888224506, 2.32593610572;312;18;18/115;16;AVENUE DE SAINT OUEN;599223.600677;131976.695831;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8749477124, 2.29569743574;281;17;17/101;face 2;AVENUE DE WAGRAM;597005.375;130501.063;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8476823115, 2.27363259839;274;16;16/114;2;PLACE DE BARCELONE;595384.371802;127470.252296;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8865972849, 2.37715913191;347;19;19/110;68;QUAI DE LA LOIRE;602979.908449;131796.500393;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8914363932, 2.34974114956;302;18;18/105;96;BOULEVARD BARBES;600969.176821;132333.892086;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.9005931845, 2.33510623427;308;18;18/111;;RUE GERARD DE NERVAL;599896.08557;133352.048179;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8905508133, 2.30346768685;290;17;17/136;face 3;AVENUE DE LA PORTE D ASNIERES;597576.094782;132235.858204;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8818841939, 2.28601752975;294;17;17/164;51;BOULEVARD GOUVION SAINT CYR;596295.8754;131272.836242;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8417544352, 2.33748462835;56;06;6/103;face 139;BOULEVARD SAINT MICHEL;600070.493068;126809.137659;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8303257437, 2.37520071297;187;13;13/127;face 97;RUE DU CHEVALERET;602839.461644;125538.988783;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8648280189, 2.35161126083;10;02;2/102;85;BOULEVARD DE SEBASTOPOL;601106.877435;129375.048287;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8624769891, 2.31080862005;64;07;7/105;41;PLACE DE FINLANDE;598113.299778;129113.820555;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.844736498, 2.31101424775;251;15;15/133;6;BOULEVARD PASTEUR;598127.706498;127141.060086;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8396342754, 2.36175466277;196;13;13/165;;BOULEVARD DE L HOPITAL;601851.967985;126573.685304;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8762387309, 2.36817760919;105;10;10/116;2;RUE DES ECLUSES SAINT MARTIN;602321.743419;130644.305506;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8461292375, 2.34004429125;57;06;6/112;face 73;BOULEVARD SAINT MICHEL;600258.350318;127295.624681;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8311339821, 2.34443170401;185;13;13/123;100;BOULEVARD AUGUSTE BLANQUI;600580.518255;125628.165533;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8746134859, 2.30236199297;78;08;8/124;face 19;AVENUE DE FRIEDLAND;597494.203387;130463.652826;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8281983631, 2.35845319705;181;13;13/116;face 159;AVENUE DE CHOISY;601609.995;125301.927;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.849330259, 2.35484617831;46;05;5/104;9;BOULEVARD SAINT GERMAIN;601344.61505;127651.739022;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.84368377, 2.40188520758;158;12;12/120;54;BOULEVARD DE PICPUS;604797.249754;127025.764724;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8189769485, 2.3575912199;177;13;13/111;5;BOULEVARD KELLERMANN;601546.989378;124276.480113;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8449844522, 2.38031784261;155;12;12/115;111;AVENUE DAUMESNIL;603214.20398;127169.254188;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8322602151, 2.3253096623;210;14;14/117;;AVENUE DU MAINE;599176.698399;125753.433241;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8667550376, 2.38338973341;372;20;20/104;face 148;BOULEVARD DE MENILMONTANT;603438.173934;129590.294709;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8583381123, 2.41471511824;374;20;20/106;;AVENUE DU PROFESSEUR ANDRE LEMIERE;605737.238008;128656.232131;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8689183629, 2.34062639783;15;02;2/109;face 13;PLACE DE LA BOURSE;600300.950767;129829.794032;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8602128675, 2.35039774649;37;04;4/113;face 2;RUE AUBRY LE BOUCHER;601017.93912;128861.823002;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8570490165, 2.4045172617;381;20;20/113;face 121;RUE DES PYRENEES;604989.102;128512.16;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8706908077, 2.40935900155;370;20;20/102;;PLACE DE L ADJUDANT VINCENOT;605342.916372;130029.467056;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8755544143, 2.39779898431;341;19;19/104;251;RUE DE BELLEVILLE;604494.479014;130569.550875;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8909604073, 2.37724299499;360;19;19/128;100;AVENUE DE FLANDRE;602985.799516;132281.685929;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.898773308, 2.36929812409;326;18;18/141;face 3;BOULEVARD NEY;602402.858;133150.201;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8403933132, 2.3612732609;44;05;5/101;4;RUE POLIVEAU;601816.604902;126658.079175;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8842143528, 2.32896961728;333;18;18/156;130 ter;BOULEVARD DE CLICHY;599446.002228;131530.737518;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8705858922, 2.39820179353;388;20;20/132;157;RUE DE MENILMONTANT;604524.473044;130017.071933;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8396660531, 2.30195906663;243;15;15/118;277;RUE DE VAUGIRARD;597462.842628;126577.487374;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8557718796, 2.40991820214;378;20;20/110;;RUE DE LA CROIX SAINT SIMON;605385.541912;128370.512248;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8482636473, 2.40003159415;375;20;20/107;9;COURS DE VINCENNES;604660.775624;127534.934353;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8976316127, 2.3589156474;306;18;18/109;87;RUE DE LA CHAPELLE;601641.703893;133022.964302;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.84733414, 2.31095990545;230;15;15/102;4;PLACE DE BRETEUIL;598123.817843;127429.921207;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8580216455, 2.34737781833;4;01;1/113;2;RUE SAINT DENIS;600796.395;128618.121;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8890639193, 2.34515427741;313;18;18/116;23;RUE LAMBERT;600632.869283;132070.022209;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8623402992, 2.34220322324;6;01;1/125;44;RUE BERGER;600416.675609;129098.316318;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8991988465, 2.3701265059;332;18;18/155;3;AVENUE DE LA PORTE D AUBERVILLIERS;602463.569921;133197.548016;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8412025712, 2.33232860028;55;06;6/102;135bis;BOULEVARD DU MONTPARNASSE;599692.041665;126747.777735;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8649756655, 2.36013286512;28;03;3/109;face 171;RUE DU TEMPLE;601732.06015;129391.627821;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8513882825, 2.34280307367;60;06;6/143;75;BOULEVARD SAINT GERMAIN;600460.779488;127880.447691;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8674378447, 2.34382098738;14;02;2/108;37;RUE DU LOUVRE;600535.317619;129665.177395;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8413080525, 2.35622468717;49;05;5/132;26;RUE BUFFON;601446.008277;126759.689275;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.846225219, 2.35487219277;47;05;5/110;4;RUE JUSSIEU;601346.60598;127306.45667;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8544550261, 2.41224737255;394;20;20/157;face 3;RUE DES DOCTEURS DEJERINE;605556.598977;128224.245963;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8379115964, 2.35564596848;191;13;13/136;53;BOULEVARD SAINT MARCEL;601403.623921;126381.989777;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8850281386, 2.35486399619;307;18;18/110;3;RUE DE LA GOUTTE D OR;601344.982397;131621.368799;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8856593152, 2.32634362788;283;17;17/104;25;AVENUE DE CLICHY;599253.444228;131691.44078;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8838976231, 2.39785967871;352;19;19/117;;AVENUE DE LA PORTE BRUNET;604498.182071;131497.324907;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8858032513, 2.37584765205;368;19;19/156;52;QUAI DE LA LOIRE;602883.779319;131708.152218;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8904544454, 2.35460972095;316;18;18/119;29;RUE ERNESTINE;601326.194187;132224.773348;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8786193513, 2.37826222864;345;19;19/108;29;RUE MANIN;603061.287219;130909.393121;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8754279615, 2.27958777194;270;16;16/107;opposé 39;BOULEVARD DE L AMIRAL BRUIX;595823.772014;130555.236684;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8683025332, 2.29374015525;275;16;16/121;face 12;PLACE DES ETATS UNIS;596861.384587;129762.19474;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8762331619, 2.38054129019;365;19;19/139;face 45;AVENUE SIMON BOLIVAR;603228.597461;130644.142465;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8842570173, 2.3673810476;340;19;19/103;220;BOULEVARD DE LA VILLETTE;602262.957834;131535.92023;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8453782111, 2.29218246244;263;15;15/160;face 5;PLACE DU COMMERCE;596745.597541;127213.061131;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8570427775, 2.37935147554;143;11;11/138;face 170;AVENUE LEDRU ROLLIN;603142.525101;128510.107857;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8226298504, 2.32885652026;221;14;14/136;70;BOULEVARD JOURDAN;599436.968412;124682.496635;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8757753953, 2.35625135327;110;10;10/121;;RUE DU FAUBOURG SAINT DENIS;601446.987195;130592.483243;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8252447717, 2.31580729655;220;14;14/133;82;BOULEVARD BRUNE;598478.881459;124973.457695;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8280565621, 2.35653249546;184;13;13/120;46;AVENUE D ITALIE;601468.982924;125286.119202;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8238450194, 2.31818116624;213;14;14/120;opposé au 8;AVENUE DE LA PORTE DE CHATILLON;598653.140167;124817.759111;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.825507787, 2.30413873243;217;14;14/126;18;AVENUE DE LA PORTE DE VANVES;597622.148628;125003.006505;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8337173082, 2.36512630736;174;13;13/107;117;BOULEVARD VINCENT AURIOL;602099.699422;125915.802568;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8495804477, 2.39366320703;142;11;11/136;282;BOULEVARD VOLTAIRE;604193.293292;127680.989037;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8656969801, 2.38095859967;137;11;11/125;18;AVENUE JEAN AICARD;603259.88933;129472.529696;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8715541615, 2.4021401807;373;20;20/105;24;RUE SAINT FARGEAU;604813.286607;130124.987793;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8662840548, 2.3897774464;386;20;20/123;72;RUE DES AMANDIERS;603906.827131;129538.232816;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8954953474, 2.37896296772;356;19;19/121;7;RUE DE CAMBRAI;603111.638469;132786.044044;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8884709682, 2.31581150544;284;17;17/105;;PLACE CHARLES FILLION;598481.166186;132004.256007;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.85415067, 2.35602360649;34;04;4/105;;QUAI DE L HOTEL DE VILLE;601430.888813;128187.794007;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8630936107, 2.35271771746;26;03;3/104;face 34;RUE DU GRENIER SAINT LAZARE;601188.092827;129182.197835;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8538097072, 2.41151638615;383;20;20/115;6;AVENUE DE LA PORTE DE MONTREUIL;605503.029874;128152.432577;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8571881529, 2.38095648432;122;11;11/101;face 113;BOULEVARD VOLTAIRE;603260.285652;128526.342044;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8683443637, 2.35014625048;11;02;2/103;face 31;RUE D ALEXANDRIE;600999.328775;129766.047802;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8792272013, 2.30402816181;74;08;8/109;51;BOULEVARD DE COURCELLES;597616.642266;130976.647218;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8623131813, 2.35020308502;2;01;1/106;55;BOULEVARD DE SEBASTOPOL;601003.615525;129095.376762;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8615373524, 2.35003085158;38;04;4/115;36;BOULEVARD DE SEBASTOPOL;600990.993925;129009.101712;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.857493703, 2.39245136818;147;11;11/147;133;BOULEVARD DE CHARONNE;604103.712388;128560.881889;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8710936949, 2.36098427062;95;10;10/105;8;PLACE JACQUES BONSERGENT;601794.307;130071.977;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.894741052, 2.38202690388;361;19;19/130;177;AVENUE DE FLANDRE;603336.335689;132702.297201;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8835732741, 2.36874246833;116;10;10/131;11;PLACE DE LA BATAILLE DE STALINGRAD;602362.83149;131459.929356;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8392007135, 2.33873159224;45;05;5/103;88 ter;BOULEVARD DE PORT ROYAL;600162.025593;126525.163833;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8822446249, 2.35053422485;115;10;10/129;145;BOULEVARD DE MAGENTA;601027.5131;131311.771694;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8721336811, 2.33854479898;80;09;9/102;1;BOULEVARD HAUSSMANN;600148.239495;130187.333388;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8553031934, 2.36041970739;41;04;4/127;123;RUE SAINT ANTOINE;601753.438231;128316.048616;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8667935445, 2.34957136375;12;02;2/105;73;RUE REAUMUR;600957.183947;129593.588071;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8822137261, 2.37033634348;367;19;19/155;face 196;BOULEVARD DE LA VILLETTE;602479.789;131308.798;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8256936083, 2.32627447599;205;14;14/108;103;AVENUE DU GENERAL LECLERC;599247.424431;125023.211357;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8371892955, 2.29680197246;238;15;15/112;face 200;RUE DE LA CONVENTION;597084.154499;126302.257484;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8289648283, 2.32797958689;222;14;14/139;63;AVENUE DU GENERAL LECLERC;599372.661877;125386.958136;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8348104903, 2.33211877111;215;14;14/123;face 297;BOULEVARD RASPAIL;599676.594229;126036.974409;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8398553776, 2.26307813413;268;16;16/105;170;AVENUE DE VERSAILLES;594608.924671;126600.596155;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8990168529, 2.33769098113;325;18;18/139;face 3;RUE MARCEL SEMBAT;600085.581;133176.759;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8212404052, 2.36901388481;194;13;13/148;1;RUE EMILE LEVASSOR;602385.678893;124528.477084;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8409059865, 2.30028097537;241;15;15/116;92-102;RUE BLOMET;597339.734298;126715.426576;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8409122347, 2.31642763034;232;15;15/104;face 55;BOULEVARD DE VAUGIRARD;598524.903832;126715.679309;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8266907029, 2.34180648779;178;13;13/112;face 129;RUE DE LA GLACIERE;600387.820229;125134.052353;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8734807411, 2.37528177673;96;10;10/106;25;BOULEVARD DE LA VILLETTE;602842.976941;130337.85912;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8352392611, 2.36878261008;189;13;13/130;44;BOULEVARD VINCENT AURIOL;602368.040542;126085.15359;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8754179857, 2.31511516886;79;08;8/127;face 4;AVENUE DE MESSINE;598429.682433;130552.769736;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.883981308, 2.33178483408;90;09;9/136;65;BOULEVARD DE CLICHY;599652.458442;131504.806124;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8346285188, 2.284141152;244;15;15/119;83;RUE DESNOUETTES;596154.578948;126018.069017;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.84923929, 2.37108368746;162;12;12/131;36;AVENUE DAUMESNIL;602536.25595;127642.042305;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8704916023, 2.35137801617;118;10;10/139;5;RUE DE MAZAGRAN;601089.645335;130004.839311;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8293762307, 2.36530148206;182;13;13/117;;RUE CLISSON;602112.740357;125433.076281;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.859234607, 2.38912226664;130;11;11/110;opposé 13;BOULEVARD DE MENILMONTANT;603859.303085;128754.295482;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.866017922, 2.3525443675;23;03;3/101;90;BOULEVARD DE SEBASTOPOL;601175.307562;129507.380561;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8747742506, 2.30321065908;69;08;8/101;12;PLACE GEORGES GUILLAUMIN;597556.461584;130481.50217;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8743584041, 2.32045168942;77;08;8/122;44;BOULEVARD MALESHERBES;598821.087172;130434.846545;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8430740443, 2.36433399581;192;13;13/144;3;BOULEVARD DE L HOPITAL;602041.158;126956.257;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8332259474, 2.4040143783;156;12;12/116;7;RUE JOSEPH CHAILLEY;604954.556584;125862.984773;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8757495125, 2.36046358018;104;10;10/115;;RUE DU FAUBOURG SAINT MARTIN;601755.950228;130589.694807;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8582136973, 2.29250251202;62;07;7/101;;QUAI BRANLY;596769.929327;128640.3621;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8725278384, 2.32653045058;70;08;8/102;;RUE VIGNON;599266.942001;130231.209762;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8294847116, 2.34942543957;170;13;13/101;face 61;BOULEVARD AUGUSTE BLANQUI;600947.162113;125444.81627;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8832470829, 2.34590618688;318;18;18/122;face 52;BOULEVARD DE ROCHECHOUART;600688.082644;131423.19272;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8701413113, 2.31016091273;75;08;8/110;4;AVENUE FRANKLIN D ROOSEVELT;598066.081821;129966.114852;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8356684765, 2.30259575059;259;15;15/149;139;RUE DE L ABBE GROULT;597509.373843;126132.932667;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8382702261, 2.34180576785;216;14;14/124;95;BOULEVARD DE PORT ROYAL;600387.685319;126421.704366;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8465213699, 2.31694564817;261;15;15/155;6;BOULEVARD DU MONTPARNASSE;598563.092431;127339.409336;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8461981551, 2.41126940318;154;12;12/114;2;RUE FERNAND FOUREAU;605485.739757;127306.004965;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8243414263, 2.32111692411;224;14;14/145;161;BOULEVARD BRUNE;598868.711177;124872.911883;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8631566853, 2.34183617987;7;01;1/128;39;PLACE DES DEUX ECUS;600389.74031;129189.09703;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8958345397, 2.37566147354;346;19;19/109;92;RUE CURIAL;602869.554281;132823.631137;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8412299523, 2.25461090743;280;16;16/137;16;AVENUE DU PARC DES PRINCES;593987.582726;126754.09268;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8694083017, 2.35350208429;19;02;2/114;15;BOULEVARD SAINT DENIS;601245.486321;129884.408648;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8600157102, 2.40102151007;391;20;20/144;171;RUE DES PYRENEES;604732.315642;128841.833617;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8814960028, 2.29553251987;295;17;17/176;face 32;AVENUE NIEL;596993.678832;131229.243805;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8598552359, 2.348837232;1;01;1/103;23;BOULEVARD DE SEBASTOPOL;600903.447557;128822.034078;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8681621896, 2.34845002883;18;02;2/113;91;RUE D ABOUKIR;600874.897269;129745.768656;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8886953619, 2.37392407329;357;19;19/124;69;AVENUE DE FLANDRE;602742.557971;132029.684906;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8977589087, 2.34164200768;336;18;18/166;9;BOULEVARD NEY;600375.257507;133036.887169;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8447973119, 2.29047953946;247;15;15/126;1;PLACE VIOLET;596620.57406;127148.540223;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8623619639, 2.26822808174;271;16;16/108;;BOULEVARD SUCHET;594989.222;129102.985;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8781474157, 2.3616456863;109;10;10/120;face 182;RUE DU FAUBOURG SAINT MARTIN;601842.569254;130856.371627;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8240656789, 2.35309546711;176;13;13/109;4;PLACE ABBE GEORGES HENOCQUE;601216.733634;124842.268392;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8348054392, 2.35780584951;172;13;13/105;126;BOULEVARD DE L HOPITAL;601562.264656;126036.625365;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.884205159, 2.35515147711;314;18;18/117;60;BOULEVARD DE LA CHAPELLE;601366.086875;131529.858153;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8405254287, 2.39204037215;153;12;12/109;179;AVENUE DAUMESNIL;604074.932449;126673.975141;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.831657966, 2.32017895944;209;14;14/116;face 36;RUE DIDOT;598800.022948;125686.531295;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8349615547, 2.34636990605;190;13;13/131;;BOULEVARD ARAGO;600722.757909;126053.811471;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8683430107, 2.38189800131;376;20;20/108;34;BOULEVARD DE BELLEVILLE;603328.632131;129766.811269;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8963596175, 2.3530164563;304;18;18/107;138;RUE DES POISSONNIERS;601209.22503;132881.405522;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8767420817, 2.34685265093;82;09;9/104;79bis;RUE LA FAYETTE;600757.588777;130699.841226;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8465506878, 2.28477482095;249;15;15/128;65;AVENUE EMILE ZOLA;596202.014382;127343.789949;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8484437891, 2.25717759424;277;16;16/126;;PLACE DE LA PORTE D AUTEUIL;594176.825751;127556.073142;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8894777633, 2.38070265061;359;19;19/126;2;RUE DE JOINVILLE;603239.579387;132116.958122;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8491004469, 2.40258392612;371;20;20/103;1;RUE DE BUZENVAL;604848.009214;127628.14767;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8749245669, 2.36364970349;117;10;10/135;116;QUAI DE JEMMAPES;601989.681331;130498.039762;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8478417928, 2.30207203653;253;15;15/138;;BOULEVARD GARIBALDI;597471.556036;127486.63171;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8443966009, 2.36039470127;53;05;5/143;;RUE CUVIER;601751.97958;127103.226879;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8458131187, 2.2559870395;276;16;16/123;face 21;AVENUE DU GENERAL SARRAIL;594089.137845;127263.634183;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8833450337, 2.32631183278;297;17;17/179;face 10;BOULEVARD DES BATIGNOLLES;599251.076022;131434.091437;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8296102487, 2.32630790325;227;14;14/152;199;AVENUE DU MAINE;599249.940548;125458.74454;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8662247816, 2.36500326172;124;11;11/103;54;BOULEVARD DU TEMPLE;602089.324272;129530.654206;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8244420825, 2.33853893042;206;14;14/109;face 40;AVENUE REILLE;600147.917061;124883.992146;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8567894255, 2.35418309909;40;04;4/122;face 50;RUE DE RIVOLI;601295.764055;128481.192061;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8687490656, 2.34323594839;22;02;2/123;117;RUE MONTMARTRE;600492.386344;129810.981979;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8578325126, 2.35581305144;36;04;4/107;10bis;RUE DE MOUSSY;601415.336016;128597.2136;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.884078656, 2.35342927125;335;18;18/161;face 90;BOULEVARD DE LA CHAPELLE;601239.789498;131515.761034;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8841038721, 2.3521864294;305;18;18/108;36;RUE DE LA CHARBONNIERE;601148.643028;131518.545284;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8948461073, 2.31429354624;292;17;17/142;132;BOULEVARD BESSIERES;598370.067462;132713.207265;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8199697602, 2.34772693476;171;13;13/102;79;BOULEVARD KELLERMANN;600822.613241;124386.725951;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.839165346, 2.39230258734;149;12;12/103;26;BOULEVARD DE REUILLY;604094.290085;126522.747134;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8856323541, 2.35340146335;298;18;18/101;face 17;RUE POLONCEAU;601237.712557;131688.532798;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.893502449, 2.33689209089;337;18;18/175;face 154;RUE ORDENER;600027.009708;132563.552928;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8471076938, 2.40747877396;161;12;12/123;90;COURS DE VINCENNES;605207.441016;127406.877939;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8360452422, 2.29341777565;239;15;15/113;face 6;RUE DESNOUETTES;596835.661757;126175.175394;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8223447327, 2.3727636369;173;13;13/106;;AVENUE CLAUDE REGAUD;602660.9624;124651.404952;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8989748409, 2.38677478261;362;19;19/132;9;AVENUE DE LA PORTE DE LA VILLETTE;603684.14367;133173.318889;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8279445001, 2.305654036;225;14;14/147;face 231;RUE RAYMOND LOSSERAND;597733.5194;125273.924266;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8309615645, 2.29183408716;231;15;15/103;face 57;BOULEVARD LEFEBVRE;596719.068829;125609.934996;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8993882119, 2.34445799674;327;18;18/144;11;RUE FRANCIS DE CROISSET;600581.698018;133218.084893;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8658415599, 2.36937734153;146;11;11/144;123;BOULEVARD RICHARD LENOIR;602410.238017;129488.170566;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.864242083, 2.37952312143;139;11;11/130;82;AVENUE DE LA REPUBLIQUE;603154.668436;129310.682922;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8532924467, 2.38788033428;127;11;11/106;195;BOULEVARD VOLTAIRE;603768.624259;128093.460108;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8282841151, 2.30336605485;229;15;15/101;185;BOULEVARD LEFEBVRE;597565.554024;125311.760986;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8680291958, 2.36532029262;121;10;10/145;;RUE DU FAUBOURG DU TEMPLE;602112.507211;129731.315266;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.899194262, 2.34396370204;338;18;18/190;15;AVENUE DE LA PORTE DE CLIGNANCOURT;600545.461227;133196.513851;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8641209728, 2.40898577792;384;20;20/118;6;PLACE DE LA PORTE DE BAGNOLET;605316.235561;129298.870868;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8636624932, 2.35096273778;9;02;2/101;69;BOULEVARD DE SEBASTOPOL;601059.322524;129245.431608;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.86338089, 2.37103957683;138;11;11/127;face 48;BOULEVARD VOLTAIRE;602532.309;129214.597;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8554039905, 2.40008152756;369;20;20/101;101;RUE ALEXANDRE DUMAS;604663.775999;128328.948732;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8541358706, 2.37766692086;128;11;11/107;125;AVENUE LEDRU ROLLIN;603019.092716;128186.788715;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8683953934, 2.3634091433;119;10;10/141;12;PLACE DE LA REPUBLIQUE;601972.290445;129771.984661;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.847134816, 2.38420732177;148;12;12/101;57;BOULEVARD DIDEROT;603499.519807;127408.549677;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8416407744, 2.34869156688;50;05;5/137;8;RUE JEAN CALVIN;600893.073707;126796.570851;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8778639152, 2.38125082319;364;19;19/138;3;RUE BOTZARIS;603280.534;130825.514;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8832700898, 2.34961000749;112;10;10/123;opposé au 168;BOULEVARD DE MAGENTA;600959.712559;131425.791911;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8516268274, 2.32518012982;66;07;7/126;face 12;RUE DE BABYLONE;599167.526668;127907.016454;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8586921502, 2.38394554725;133;11;11/114;135;RUE DE LA ROQUETTE;603479.507848;128693.721446;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.883534879, 2.33353024813;87;09;9/117;74;BOULEVARD DE CLICHY;599780.4592;131455.156473;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8526426927, 2.36835669665;33;04;4/103;41;BOULEVARD BOURDON;602335.970213;128020.414834;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8779817762, 2.37008390154;92;10;10/102;;PLACE DU COLONEL FABIEN;602461.481464;130838.194041;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8884941411, 2.34943063436;311;18;18/114;43;BOULEVARD BARBES;600946.461931;132006.707691;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8651933385, 2.30018344606;73;08;8/108;2;AVENUE MARCEAU;597333.894291;129416.200724;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8527219832, 2.33459026841;59;06;6/140;17;RUE DU FOUR;599858.088783;128028.738337;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8888356217, 2.37903396915;358;19;19/125;;RUE DE CRIMEE;603117.257;132045.481;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8404563216, 2.40466278548;152;12;12/108;124;AVENUE DU GENERAL MICHEL BIZOT;605001.435763;126667.050315;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8933841338, 2.36985563312;343;19;19/106;154;RUE D AUBERVILLIERS;602443.992782;132550.939247;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8571927967, 2.26669903431;279;16;16/135;face 38;AVENUE RAPHAEL;594876.502189;128528.273759;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8894228236, 2.31886670308;289;17;17/134;96ter;RUE LEMERCIER;598705.22975;132110.046128;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.844093329, 2.41126547446;160;12;12/122;6;AVENUE COURTELINE;605485.681944;127071.946626;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.884644912, 2.35909848088;328;18;18/148;;PLACE DE LA CHAPELLE;601655.531799;131578.838353;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8793838919, 2.38442043788;366;19;19/141;;RUE BOTZARIS;603512.905599;130994.679595;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8389404079, 2.38957294205;167;12;12/154;face 1;BOULEVARD DE REUILLY;603893.943833;126497.588933;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8827090841, 2.34349779975;84;09;9/114;45;BOULEVARD DE ROCHECHOUART;600511.461885;131363.347573;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8826756157, 2.34334023734;85;09;9/115;45;BOULEVARD DE ROCHECHOUART;600499.906751;131359.624795;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8374184706, 2.35354364655;52;05;5/142;78;BOULEVARD SAINT MARCEL;601249.315609;126327.11662;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8648794077, 2.40077805546;392;20;20/152;face 12;RUE BELGRAND;604713.995413;129382.664921;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.846008596, 2.36702780699;166;12;12/148;face 98;QUAI DE LA RAPEE;602238.746;127282.658;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8725811844, 2.36407391372;93;10;10/103;face 81;QUAI DE VALMY;602020.890801;130237.465272;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8347382889, 2.39353336243;150;12;12/106;283;RUE DE CHARENTON;604185.0016;126030.522764;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8583131762, 2.3802426629;140;11;11/131;8;PLACE LEON BLUM;603207.836354;128651.414731;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8801634262, 2.36731781779;111;10;10/122;179;QUAI DE VALMY;602258.503873;131080.708193;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8855238884, 2.38101490179;355;19;19/120;face 107;AVENUE JEAN JAURES;603262.733;131677.298;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8330150787, 2.33118702288;223;14;14/141;10;AVENUE DU GENERAL LECLERC;599608.179873;125837.32759;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8844921121, 2.3446622105;329;18;18/150;face 3;PLACE SAINT PIERRE;600596.838082;131561.630094;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8364136137, 2.30982319251;242;15;15/117;68;RUE DE LA PROCESSION;598039.955915;126215.579426;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8881820312, 2.37374993518;339;19;19/102;58;AVENUE DE FLANDRE;602729.816236;131972.595912;6 h - 22 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8268340661, 2.36458137343;180;13;13/114;90;RUE DE TOLBIAC;602059.975245;125150.365579;6 h - 1 h;Toilette publique de la Ville de Paris;http://opendata.paris.fr
+48.8965489204, 2.33826967804;323;18;18/130;135;RUE DAMREMONT;600128.012557;132902.324132;24 h / 24;Toilette publique de la Ville de Paris;http://opendata.paris.fr
