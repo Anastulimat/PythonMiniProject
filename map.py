@@ -1,5 +1,6 @@
 import folium, branca, geojson
-'''
+
+
 STATIONS = ['ABBEVILLE', 'AJACCIO', 'ALENCON', 'BALE-MULHOUSE',
             'BELLE ILE-LE TALUT', 'BORDEAUX-MERIGNAC', 'BOURGES',
             'BREST-GUIPAVAS', 'CAEN-CARPIQUET', 'CAP CEPET',
@@ -59,30 +60,5 @@ for lat, lng, size, color in zip(LATS, LONGS, TEMPS, TEMPS):
 
 
 map.add_child(f) # add the group to the map
-
-map.save(outfile='map.html')
-'''
-coords = (48.7453229,2.5073644)
-map = folium.Map(location=coords, tiles='OpenStreetMap', zoom_start=9)
-
-#style function
-sf = lambda x :{'fillColor':'#E88300', 'fillOpacity':0.5, 'color':'#E84000', 'weight':1, 'opacity':1}
-
-for overlay in [
-    'communes-75-paris.geojson',
-    'communes-77-seine-et-marne.geojson',
-    'communes-78-yvelines.geojson',
-    'communes-91-essonne.geojson',
-    'communes-92-hauts-de-seine.geojson',
-    'communes-93-seine-saint-denis.geojson',
-    'communes-94-val-de-marne.geojson',
-    'communes-95-val-d-oise.geojson'
-    ] :
-
-    folium.GeoJson(
-        data=overlay,
-        name=overlay,
-        style_function = sf
-    ).add_to(map)
 
 map.save(outfile='map.html')

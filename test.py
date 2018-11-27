@@ -32,8 +32,10 @@ for elem in fm.data_to_use:
     else:
         trafic_dic[elem[4]] += int(elem[2])
 
-
+print("=====================================")
+print("Nomber quartiers : ")
 print(d)
+print("Trafic données : ")
 print("=====================================")
 print(trafic_dic)
 
