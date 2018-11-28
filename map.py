@@ -1,5 +1,5 @@
 import folium, branca, geojson
-
+import histogramme as his
 
 STATIONS = ['ABBEVILLE', 'AJACCIO', 'ALENCON', 'BALE-MULHOUSE',
             'BELLE ILE-LE TALUT', 'BORDEAUX-MERIGNAC', 'BOURGES',
@@ -14,39 +14,41 @@ STATIONS = ['ABBEVILLE', 'AJACCIO', 'ALENCON', 'BALE-MULHOUSE',
             'ROUEN-BOOS', 'ST GIRONS', 'STRASBOURG-ENTZHEIM',
             'TARBES-OSSUN', 'TOULOUSE-BLAGNAC', 'TOURS', 'TROYES-BARBEREY']
 
-LATS = [50.136, 41.918, 48.4455, 47.614333, 47.294333,
-        44.830667, 47.059167, 48.444167, 49.18, 43.079333,
-        45.786833, 47.267833, 44.565667, 44.745, 45.0745,
-        50.57, 45.861167, 45.7265, 43.437667, 44.1185,
-        43.909833, 44.581167, 43.577, 48.581, 47.15,
-        43.648833, 48.716833, 42.737167, 48.825833,
-        46.593833, 46.046833, 49.725167, 49.209667,
-        48.068833, 49.383, 43.005333, 48.5495, 43.188,
-        43.621, 47.4445, 48.324667]
+LATS = [48.86256270183605, 48.86827922252252, 48.86287238001689, 48.854341426272896,
+        48.84444315053267, 48.84913035858519, 48.85617442877936, 48.87272083743446, 
+        48.87716351732886, 48.876130036539124, 48.859059221342505, 48.83497438148051,
+        48.828388031744694, 48.829244500489835, 48.84008537593817, 48.860392105415706, 
+        48.88732652202582, 48.892569268005786, 48.887075996572506, 48.86346057889556]
 
-LONGS = [1.834, 8.792667, 0.110167, 7.51, -3.218333, -0.691333,
-         2.359833, -4.412, -0.456167, 5.940833, 3.149333, 5.088333,
-         6.502333, 1.396667, 3.764, 3.0975, 1.175, 5.077833, 5.216,
-         3.0195, -0.500167, 4.733, 3.963167, 5.959833, -1.608833,
-         7.209, 2.384333, 2.872833, -3.473167, 0.314333, -1.4115,
-         -1.939833, 4.155333, -1.734, 1.181667, 1.106833, 7.640333,
-         0.0, 1.378833, 0.727333, 4.02]
+LONGS = [2.3364433620533847, 2.3428025468913636, 2.3600009858976927, 2.357629620324993,
+         2.350714609575257, 2.332897999053313, 2.312187691482009, 2.3125540224020638,
+         2.3374575434825466, 2.36072848784745, 2.380058308197898, 2.421324900784681,
+         2.3622724404209055, 2.3265420441989453, 2.2928258224249967, 2.2619707883645397, 
+         2.3067769905744084, 2.34816051956204, 2.3848209601525143, 2.4011881292846864]
 
 TEMPS = [7.6, 13.5, 7.6, 6.8, 10.5, 11.5, 8.5, 9.7, 8.6, 11.8, 9.1,
          7.2, 5.7, 9.2, 6.0, 7.2, 7.6, 8.4, 12.0, 6.1, 11.6, 9.6, 11.7,
          6.5, 10.0, 11.7, 8.1, 12.6, 9.9, 9.1, 10.8, 9.5, 7.4, 9.0,
          7.1, 10.3, 6.7, 10.8, 10.6, 8.4, 8.1]
 
-coords = (46.6299767,1.8489683)
-map = folium.Map(location=coords, tiles='OpenStreetMap', zoom_start=7)
+SIZE = list()
 
-cm = branca.colormap.LinearColormap(['blue', 'yellow', 'red'], vmin=min(TEMPS), vmax=max(TEMPS))
+for elem in his.trafic_values:
+        if(elem >= 100000000):
+                SIZE.append((elem/1000000)/2)
+        else:
+                SIZE.append((elem/1000000)/2)
+
+coords = (48.864716,2.349014)
+map = folium.Map(location=coords, tiles='OpenStreetMap')
+
+cm = branca.colormap.LinearColormap(['blue', 'yellow', 'red'], vmin=min(his.trafic_values), vmax=max(his.trafic_values))
 map.add_child(cm) # add this colormap on the display
 
 f = folium.map.FeatureGroup() # create a group
 
 
-for lat, lng, size, color in zip(LATS, LONGS, TEMPS, TEMPS):
+for lat, lng, size, color in zip(LATS, LONGS, SIZE, his.trafic_values):
     print(lat, lng, size, color)
     f.add_child( # add iteratively a CircleMarker to this group
         folium.CircleMarker(

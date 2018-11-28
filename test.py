@@ -1,141 +1,37 @@
-import pylab
-import numpy as np
 import matplotlib.pyplot as plt
-import random
-import file_manager as fm
+import numpy as np
+from matplotlib.ticker import FormatStrFormatter
 
-trafic = list()
-stations = list()
-quartiers = list()
-
-for elem in fm.data_to_use:
-    stations.append(elem[1])
-    trafic.append(int(elem[2]))
-    quartiers.append(elem[4])
-
-for elem in quartiers:
-    print(elem)
-
-d = dict()
-trafic_dic = dict()
-
-for elem in quartiers:
-    if not not elem:
-        if elem not in d.keys():
-            d[elem] = 1
-        else:
-            d[elem] += 1
-
-for elem in fm.data_to_use:
-    if elem[4] not in trafic_dic.keys():
-        trafic_dic[elem[4]] = int(elem[2])
-    else:
-        trafic_dic[elem[4]] += int(elem[2])
-
-print("=====================================")
-print("Nomber quartiers : ")
-print(d)
-print("Trafic données : ")
-print("=====================================")
-print(trafic_dic)
-
-
-
-size = len(trafic)
-
-
-
-'''
-NUM_FAMILIES = 10
-
-# set the random seed (for reproducibility)
-random.seed(42)
-
-# setup the plot
+data = np.random.randn(82)
 fig, ax = plt.subplots()
+counts, bins, patches = ax.hist(data, facecolor='yellow', edgecolor='gray')
 
-# generate some random data
-x = [random.randint(0, 5) for x in range(NUM_FAMILIES)]
+# Set the ticks to be at the edges of the bins.
+ax.set_xticks(bins)
+# Set the xaxis's tick labels to be formatted with 1 decimal place...
+ax.xaxis.set_major_formatter(FormatStrFormatter('%0.1f'))
 
-# create the histogram
-ax.hist(x, align='left') # `align='left'` is used to center the labels
+# Change the colors of bars at the edges...
+twentyfifth, seventyfifth = np.percentile(data, [25, 75])
+for patch, rightside, leftside in zip(patches, bins[1:], bins[:-1]):
+    if rightside < twentyfifth:
+        patch.set_facecolor('green')
+    elif leftside > seventyfifth:
+        patch.set_facecolor('red')
 
-# now, define the ticks (i.e. locations where the labels will be plotted)
-xticks = [i for i in range(NUM_FAMILIES)]
+# Label the raw counts and the percentages below the x-axis...
+bin_centers = 0.5 * np.diff(bins) + bins[:-1]
+for count, x in zip(counts, bin_centers):
+    # Label the raw counts
+    ax.annotate(str(count), xy=(x, 0), xycoords=('data', 'axes fraction'),
+        xytext=(0, -18), textcoords='offset points', va='top', ha='center')
+
+    # Label the percentages
+    percent = '%0.0f%%' % (100 * float(count) / counts.sum())
+    ax.annotate(percent, xy=(x, 0), xycoords=('data', 'axes fraction'),
+        xytext=(0, -32), textcoords='offset points', va='top', ha='center')
 
 
-# also define the labels we'll use (note this MUST have the same size as `xticks`!)
-xtick_labels = ['Family-%d' % (f+1) for f in range(NUM_FAMILIES)]
-
-# add the ticks and labels to the plot
-ax.set_xticks(xticks)
-ax.set_xticklabels(xtick_labels,rotation = 45, ha="right")
+# Give ourselves some more room at the bottom of the plot
+plt.subplots_adjust(bottom=0.15)
 plt.show()
-'''
-
-
-'''
-names = [stations[i] for i in range(5)]
-values = [trafic[i] for i in range(5)]
-
-plt.bar(stations, trafic)
-#n, bins, patches = plt.hist(trafic ,bins=50, color='g', alpha=0.75)
-plt.xlabel('Stations')
-plt.ylabel('Trafic')
-plt.title('Histogram trafic')
-plt.grid()
-plt.show()
-'''
-
-'''
-# the histogram of the data
-n, bins, patches = plt.hist([10, 20], 50, normed=1, facecolor='g', alpha=0.75)
-
-
-plt.xlabel('Smarts')
-plt.ylabel('Probability')
-plt.title('Histogram of IQ')
-plt.axis([40, 160, 0, 0.03])
-plt.grid(True)
-plt.show()
-'''
-
-'''
-n, bins, patches = plt.hist(trafic, 50)
-plt.xlabel('Stations')
-plt.ylabel('trafics')
-plt.title('Histogram of trafics')
-plt.show()
-'''
-
-
-
-'''
-x = np.random.randn(10000)
-
-plt.hist(x, bins)
-
-
-
-plt.title('10.000 random numbers')
-plt.xlabel('bins')
-plt.ylabel('count')
-plt.show()
-
-
-plt.plot(x, np.sin(x))
-plt.title('Sine function')
-plt.xlabel('angle (radians)')
-plt.grid()
-plt.show()
-
-
-print('n =')
-print(n)
-print("===============")
-print('bins = ')
-print(bins)
-print("===============")
-print('patches = ')
-print(patches)
-'''
