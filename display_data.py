@@ -170,7 +170,7 @@ class DisplayData:
         # Add xticks on the middle of the group bars
         plt.ylabel("Indice de qualité de l'air")
         plt.xlabel('Emplacement')
-        plt.title("Qualité de l'aire dnas 3 principale endroits par apport aux trafics entrant en gare l'année 2016")
+        plt.title("Histogramme des notes des composants de l'air")
         plt.xticks([r + barWidth for r in range(len(NO))], ['Chatelet', 'Roosevelet', 'Auber'])
         plt.yticks([0, 1, 2, 3, 4, 5])
         
