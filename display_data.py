@@ -126,11 +126,7 @@ class DisplayData:
         plt.bar(trafic_keys, trafic_values, ec="black")
         plt.xlabel('Arrondissements')
         plt.ylabel('Taux trafics')
-        plt.title('Histogram trafic dans Paris')
+        plt.title('Histogramme trafic entrant dnas les gares de Paris')
         plt.xticks(trafic_keys)
         plt.show()
-
-    
-
-    
 

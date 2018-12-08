@@ -135,6 +135,26 @@ class FileManager:
         except:
             print("informations n'est pas une list !")
 
+    """
+    retourne 2 liste lats et longs des arrondissmeent de Paris
+
+    Args:
+        informations: une liste contient les informations qui nous interéssent
+
+    Returns:
+        2 liste lats et longs des arrondissmeent de Paris
+    """
+    def get_lats_lngs(self, informations):
+        try:
+            lats = []
+            lngs = []
+            for elem in informations:
+                lats.append(float(elem[2]))
+                lngs.append(float(elem[3]))
+            return lats, lngs
+        except:
+            print("informations n'est pas une list !")
+
 
     """
     retourne un tuple TraficData

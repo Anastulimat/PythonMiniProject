@@ -7,6 +7,7 @@ def main():
     dd = display_data.DisplayData()
     dm = display_map.DisplayMap()
 
+
     """
     Récupération et traitement de données
     """
@@ -17,6 +18,11 @@ def main():
     file_content = fm.get_file_content(list_file_content)
     informations = fm.get_informations(file_content)
     data_to_use = fm.get_data_to_use(informations)
+
+    list_arrondissements_content = fm.get_list_file_content('files/arrondissements.csv')
+    arrondissements_file_content = fm.get_file_content(list_arrondissements_content)
+    arrondissements_infos = fm.get_informations(arrondissements_file_content)
+    dm.LATS, dm.LONGS = fm.get_lats_lngs(arrondissements_infos)
 
     """
     Traitement histogramme
@@ -31,9 +37,6 @@ def main():
     """
     dm.create_map(trafic_values)
     dd.print_data(trafic_keys, trafic_values)
-
-
-
 
 
 
