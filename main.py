@@ -66,7 +66,7 @@ def main():
     Génération de la carte et affichage histogramme
     """
     dm.create_map(trafic_values)
-    dd.print_data(trafic_keys, trafic_values)
+    dd.display_data_on_histogramme(trafic_keys, trafic_values, l1, l2, l3)
 
 
 

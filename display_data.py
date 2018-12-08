@@ -118,15 +118,66 @@ class DisplayData:
     Returns:
         None
     """
-    def print_data(self, trafic_keys, trafic_values):
+    def display_data_on_histogramme(self, trafic_keys, trafic_values, l1, l2, l3):
         formatrer = FuncFormatter(self.millions)
         fig, ax = plt.subplots()
         ax.yaxis.set_major_formatter(formatrer)
 
+        plt.figure(1)
         plt.bar(trafic_keys, trafic_values, ec="black")
         plt.xlabel('Arrondissements')
         plt.ylabel('Taux trafics')
         plt.title('Histogramme trafic entrant dnas les gares de Paris')
         plt.xticks(trafic_keys)
+
+        plt.figure(2)
+
+        # set width of bar
+        barWidth = 0.125
+        
+        NO = []
+        NO.append(l1[0])
+        NO.append(l2[0])
+        NO.append(l3[0])
+
+        NO2 = []
+        NO2.append(l1[1])
+        NO2.append(l2[1])
+        NO2.append(l3[1])
+
+        PM10 = []
+        PM10.append(l1[2])
+        PM10.append(l2[2])
+        PM10.append(l3[2])
+
+        CO2 = []
+        CO2.append(l1[3])
+        CO2.append(l2[3])
+        CO2.append(l3[3])
+
+        # Set position of bar on X axis
+        r1 = np.arange(len(NO))
+        r2 = [x + barWidth for x in r1]
+        r3 = [x + barWidth for x in r2]
+        r4 = [x + barWidth for x in r3]
+        
+        # Make the plot
+        plt.bar(r1, NO, color='#7f6d5f', width=barWidth, edgecolor='white', label='NO')
+        plt.bar(r2, NO2, color='#557f2d', width=barWidth, edgecolor='white', label='NO2')
+        plt.bar(r3, PM10, color='#2d7f5e', width=barWidth, edgecolor='white', label='PM10')
+        plt.bar(r4, CO2, color='#2d725f', width=barWidth, edgecolor='white', label='CO2')
+        
+        # Add xticks on the middle of the group bars
+        plt.ylabel("Indice de qualité de l'air")
+        plt.xlabel('Emplacement')
+        plt.title("Qualité de l'aire dnas 3 principale endroits par apport aux trafics entrant en gare l'année 2016")
+        plt.xticks([r + barWidth for r in range(len(NO))], ['Chatelet', 'Roosevelet', 'Auber'])
+        plt.yticks([0, 1, 2, 3, 4, 5])
+        
+        # Create legend & Show graphic
+        plt.legend()
+
         plt.show()
+
+    
 
