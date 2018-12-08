@@ -1,11 +1,13 @@
 import file_manager
 import display_data
 import display_map
+import api
 
 def main():
     fm = file_manager.FileManager()
     dd = display_data.DisplayData()
     dm = display_map.DisplayMap()
+    ap = api.Api()
 
 
     """
@@ -23,6 +25,34 @@ def main():
     arrondissements_file_content = fm.get_file_content(list_arrondissements_content)
     arrondissements_infos = fm.get_informations(arrondissements_file_content)
     dm.LATS, dm.LONGS = fm.get_lats_lngs(arrondissements_infos)
+
+    """
+    Récupération de données avec API
+    """
+    print("===============================")
+    resOpenDataChatelet = ap.OpenDataIDF("https://data.iledefrance.fr/api/records/1.0/search/?dataset=qualite-de-lair-mesuree-dans-la-station-chatelet&rows=20&start=8000&timezone=UTC")
+    liste1 = ap.graduateAireQualityByIndice(resOpenDataChatelet)
+    print("+++++++++++++++")
+    print(liste1)
+    print("+++++++++++++++")
+    l1 = ap.dictToList(liste1)
+    print(l1)
+
+    resOpenDataRoosevelt = ap.OpenDataIDF("https://data.iledefrance.fr/api/records/1.0/search/?dataset=qualite-de-lair-mesuree-dans-la-station-franklin-d-roosevelt&rows=20&start=8000&timezone=UTC")
+    liste2 = ap.graduateAireQualityByIndice(resOpenDataRoosevelt)
+    print("+++++++++++++++")
+    print(liste2)
+    print("+++++++++++++++")
+    l2 = ap.dictToList(liste2)
+    print(l2)
+
+    resOpenDataAuber = ap.OpenDataIDF("https://data.iledefrance.fr/api/records/1.0/search/?dataset=qualite-de-lair-mesuree-dans-la-station-auber&rows=20")
+    liste3 = ap.graduateAireQualityByIndice(resOpenDataAuber)
+    print("+++++++++++++++")
+    print(liste3)
+    print("+++++++++++++++")
+    l3 = ap.dictToList(liste3)
+    print(l3)
 
     """
     Traitement histogramme
