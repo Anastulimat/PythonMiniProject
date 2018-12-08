@@ -2,6 +2,7 @@ import file_manager
 import display_data
 import display_map
 import api
+import webbrowser,os
 
 def main():
     fm = file_manager.FileManager()
@@ -29,31 +30,28 @@ def main():
     """
     Récupération de données avec API
     """
-    print("===============================")
-    resOpenDataChatelet = ap.OpenDataIDF("https://data.iledefrance.fr/api/records/1.0/search/?dataset=qualite-de-lair-mesuree-dans-la-station-chatelet&rows=20&start=8000&timezone=UTC")
-    liste1 = ap.graduateAireQualityByIndice(resOpenDataChatelet)
-    print("+++++++++++++++")
-    print(liste1)
-    print("+++++++++++++++")
-    l1 = ap.dictToList(liste1)
-    print(l1)
+    apiList = ["https://data.iledefrance.fr/api/records/1.0/search/?dataset=qualite-de-lair-mesuree-dans-la-station-chatelet&rows=20&start=8000&timezone=UTC","https://data.iledefrance.fr/api/records/1.0/search/?dataset=qualite-de-lair-mesuree-dans-la-station-franklin-d-roosevelt&rows=20&start=8000&timezone=UTC","https://data.iledefrance.fr/api/records/1.0/search/?dataset=qualite-de-lair-mesuree-dans-la-station-auber&rows=20"]
+    resOpenDataChatelet = ap.OpenDataIDF(apiList[0])
+    liste1 = ap.graduateAirQuality(resOpenDataChatelet)
+    list1Byindex = ap.graduateAireQualityByIndice(resOpenDataChatelet)
+    dict1 = ap.airQualityDataMap(apiList[0], liste1)
+    l1 = ap.dictToList(list1Byindex)
 
-    resOpenDataRoosevelt = ap.OpenDataIDF("https://data.iledefrance.fr/api/records/1.0/search/?dataset=qualite-de-lair-mesuree-dans-la-station-franklin-d-roosevelt&rows=20&start=8000&timezone=UTC")
-    liste2 = ap.graduateAireQualityByIndice(resOpenDataRoosevelt)
-    print("+++++++++++++++")
-    print(liste2)
-    print("+++++++++++++++")
-    l2 = ap.dictToList(liste2)
-    print(l2)
 
-    resOpenDataAuber = ap.OpenDataIDF("https://data.iledefrance.fr/api/records/1.0/search/?dataset=qualite-de-lair-mesuree-dans-la-station-auber&rows=20")
-    liste3 = ap.graduateAireQualityByIndice(resOpenDataAuber)
-    print("+++++++++++++++")
-    print(liste3)
-    print("+++++++++++++++")
-    l3 = ap.dictToList(liste3)
-    print(l3)
+    resOpenDataRoosevelt = ap.OpenDataIDF(apiList[1])
+    liste2 = ap.graduateAirQuality(resOpenDataRoosevelt)
+    list2Byindex = ap.graduateAireQualityByIndice(resOpenDataRoosevelt)
+    dict2 = ap.airQualityDataMap(apiList[1], liste2)
+    l2 = ap.dictToList(list2Byindex)
 
+    resOpenDataAuber = ap.OpenDataIDF(apiList[2])
+    liste3 = ap.graduateAirQuality(resOpenDataAuber)
+    list3Byindex = ap.graduateAireQualityByIndice(resOpenDataAuber)
+    dict3 = ap.airQualityDataMap(apiList[2], liste3)
+    l3 = ap.dictToList(list3Byindex)
+
+    air_Quality_Paris = [dict1, dict2, dict3]
+    
     """
     Traitement histogramme
     """
@@ -65,8 +63,10 @@ def main():
     """
     Génération de la carte et affichage histogramme
     """
-    dm.create_map(trafic_values)
+    dm.create_map(trafic_values, air_Quality_Paris)
     dd.display_data_on_histogramme(trafic_keys, trafic_values, l1, l2, l3)
+
+    webbrowser.open('file://'+str(os.path.realpath("map.html")))
 
 
 

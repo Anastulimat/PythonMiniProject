@@ -1,4 +1,5 @@
 import folium, branca, geojson
+import api
 
 class DisplayMap:
     center_coords = (48.864716,2.349014)
@@ -33,11 +34,12 @@ class DisplayMap:
     Returns:
         génère un fichier html contenant les information affichées sur une carte
     """
-    def create_map(self, trafic_values):
-        map = folium.Map(location = self.center_coords, tiles = 'OpenStreetMap', zoom_start=13)
+    def create_map(self, trafic_values, air_quality):
+        map = folium.Map(location = self.center_coords, tiles = 'Stamen Terrain', zoom_start=13)
+        cmAir = branca.colormap.LinearColormap(['green', 'blue', 'yellow', 'orange', 'red', 'black'], vmin = 0, vmax = 6)
         cm = branca.colormap.LinearColormap(['blue', 'yellow', 'red'], vmin = min(trafic_values), vmax = max(trafic_values))
-        map.add_child(cm) # add this colormap on the display
-
+        map.add_child(cm, name="Traffic Legend") # add this colormap on the display
+        map.add_child(cmAir)
         
         self.get_size_for_cirecle(trafic_values)
         f = folium.map.FeatureGroup() # create a group
@@ -51,6 +53,16 @@ class DisplayMap:
                     fill_color=cm(color),
                     fill_opacity=0.6)
             )
+
+        for current_air_quality in air_quality :
+            folium.CircleMarker(
+                location = current_air_quality["coords"],
+                radius = current_air_quality["indice"]*40,
+                color = "green",
+                fill = True,
+                fill_color = cmAir(current_air_quality["indice"])
+            ).add_to(map)
+
         map.add_child(f) # add the group to the map
         map.save(outfile='map.html')
 
