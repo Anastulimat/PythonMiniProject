@@ -1,4 +1,3 @@
-Python Mini Project
-====================
-ESIEE Paris
-E3 Python
+Python Project (Simple Data Analysis Project)
+=============================================
+ESIEE Paris E3
